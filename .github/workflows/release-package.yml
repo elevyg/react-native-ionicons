@@ -1,3 +1,5 @@
+# Release to NPM
+
 name: Node.js Package
 
 on:
