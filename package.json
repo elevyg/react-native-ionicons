@@ -1,6 +1,6 @@
 {
   "name": "@elevyg/react-native-ionicons",
-  "version": "5.5.2",
+  "version": "1.0.0",
   "description": "Ionicons 5 for React Native",
   "main": "src/index.js",
   
@@ -23,9 +23,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/elevyg/react-native-ionicons/issues"
-  },
-  "publishConfig": {
-    "@elevyg:registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/elevyg/react-native-ionicons#readme",
   "devDependencies": {
