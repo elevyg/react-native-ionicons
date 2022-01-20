@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelbnd/react-native-ionicons.git"
+    "url": "git+https://github.com/elevyg/react-native-ionicons.git"
   },
   "keywords": [
     "react-native",
@@ -19,15 +19,15 @@
     "5",
     "v5"
   ],
-  "author": "Michael Bernard",
+  "author": "Eyal Levy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/michaelbnd/react-native-ionicons/issues"
+    "url": "https://github.com/elevyg/react-native-ionicons/issues"
   },
   "publishConfig": {
     "@elevyg:registry": "https://npm.pkg.github.com"
   },
-  "homepage": "https://github.com/michaelbnd/react-native-ionicons#readme",
+  "homepage": "https://github.com/elevyg/react-native-ionicons#readme",
   "devDependencies": {
     "@types/jest": "^27.4.0",
     "@types/react": "^17.0.38",
