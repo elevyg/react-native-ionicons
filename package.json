@@ -1,6 +1,6 @@
 {
   "name": "@elevyg/react-native-ionicons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ionicons 5 for React Native",
   "main": "src/index.tsx",
   
